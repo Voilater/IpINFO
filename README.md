@@ -1,2 +1,2 @@
 # IpINFO
-details abour ip 
+details about ip 
